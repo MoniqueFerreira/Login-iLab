@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Projeto Conclusão de curso 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MoniqueFerreira/Login-iLab/blob/main/LICENSE) 
 
 # Sobre o projeto
