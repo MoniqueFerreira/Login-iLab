@@ -14,15 +14,23 @@ o Ilab é um projeto para os alunos da faculdade desevolver suas habilidades, e 
 
 
 ## Layout Pages Figma
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+![Page 1](https://github.com/MoniqueFerreira/Assets/blob/main/Login%20principal.png)
+
+![Page 2](https://github.com/MoniqueFerreira/Assets/blob/main/Projetos.png)
+![Page 3](https://github.com/MoniqueFerreira/Assets/blob/main/Formul%C3%A1rio%20de%20cadastro%20de%20Projetos.png) 
+![Page 4](https://github.com/MoniqueFerreira/Assets/blob/main/Formul%C3%A1rio%20de%20cadastro%20de%20alunos%20(1).png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web Login](https://github.com/MoniqueFerreira/Assets/blob/main/Tela-login-html.png)
+
+
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/MoniqueFerreira/Assets/blob/main/Diagrama.jpeg)
+
+![Modelo Conceitual-Diagrama de Classe](https://github.com/MoniqueFerreira/Assets/blob/main/Diagrama_Classes_Sistema_Ilab_1.jpeg)
 
 # Tecnologias utilizadas
 ## Back end
@@ -31,52 +39,20 @@ o Ilab é um projeto para os alunos da faculdade desevolver suas habilidades, e 
 - JPA / Hibernate
 - Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML / CSS /
+
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto back end
-cd backend
 
-# executar o projeto
-./mvnw spring-boot:run
-```
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Monique Ferreira
 
-https://www.linkedin.com/in/wmazoni
+
 
