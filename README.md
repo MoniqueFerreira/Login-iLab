@@ -6,11 +6,11 @@
 Link do projeto
 
 Esse Software foi um projeto solicitado pelo nosso Professor e Coordenador do iLab,
-o Ilab é um projeto para os alunos da faculdade desevolver suas habilidades, e uma fomarda de os alunos conseguir um pouco de horas complementares.
+o Ilab é um projeto para os alunos da faculdade desenvolver suas habilidades, e uma forma de os alunos conseguir um pouco de horas complementares.
 
-É um Software que vai ajudar o professor a ser organizar nas atividades do Ilab, mas nos construimos como projeto de conclusão de curso de Programação 3 da Faculdade no Curo de (ADS) Análise e desenvolvimento de sistemas.
+Ele é um Software que vai ajudar o professor a ser organizar nas atividades do Ilab, mas nos construimos como projeto de conclusão de curso de Programação 3 da Faculdade no Curo de (ADS) Análise e desenvolvimento de sistemas.
 
-É uma aplicação que cadastra alunos, projetos tem uma lista de presença, comentários e relátórios de frequência e outras utilidades.
+Este software foi criado para facilitar a gestão do iLab, proporcionando funcionalidades como o cadastro de alunos e projetos. Ele oferece recursos como a criação de listas de presença, seção para comentários e a geração de relatórios de frequência. Além dessas características, o software inclui outras utilidades para melhorar a experiência do usuário e garantir um gerenciamento eficiente das atividades no iLab..
 
 
 ## Layout Pages Figma
@@ -36,7 +36,7 @@ o Ilab é um projeto para os alunos da faculdade desevolver suas habilidades, e 
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- JPA / 
 - Maven
 ## Front end
 - HTML / CSS /
